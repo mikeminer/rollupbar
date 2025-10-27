@@ -1,4 +1,5 @@
 # 🍸 The Rollup Bar — On-Chain Hospitality on Optimism
+dApp link :https://mikeminer.github.io/rollupbar/
 
 **The Rollup Bar** is a fully on-chain hospitality dApp built on **Optimism (Layer 2 Ethereum)**.  
 Guests can claim **free NFT drinks**, send **on-chain messages**, and **tip in ETH** to speed up service — all directly from their wallet.
